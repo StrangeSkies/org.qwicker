@@ -1,4 +1,4 @@
-# org.qwicker
+# org.wicka
 
 ## Goals
 
